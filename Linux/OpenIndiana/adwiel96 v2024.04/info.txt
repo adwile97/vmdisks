@@ -1,0 +1,9 @@
+by adwiel96
+Disk Size: 34.45GB, dynamic
+Root pass: adwiel96
+User: adwiel
+Pass: (no password)
+AMD64 architecture
+https://www.openindiana.org/downloads Text Install DVD
+SATA controller, PIIX3 chipset
+Time and keyboard settings are german
