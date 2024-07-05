@@ -1,9 +1,8 @@
-This repository will include VM disks (.vdi or .vhd primarily), bootable ISOs, snapshots, OVA and OVF files.
+This repository serves as a reliable source for VM setups of operating systems that are time-consuming to install. Contributions are welcome!
+This repository may include VM disks (.vdi or .vhd primarily), bootable ISOs, snapshots, OVA and OVF files.
 Any sources will get credited if they are not directly me or the contributer, ISOs used for the installation of VMs may get included in the folders.
 
 Note: Activated Windows VM setups are not purposefully included.
-
-This repository serves as a reliable source for VM setups of operating systems that are time-consuming to install. Contributions are welcome!
 
 ### How to contribute
 1. Fork this repository.
