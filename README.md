@@ -15,6 +15,6 @@ Disk image, OVA and/or OVF, direct ZIP/RAR/similar of the VM folder, ISOs, files
 6. Make a text file including neccesary information:
 MANDATORY: Root password, all users and passwords, VM software used/if a VM was used, credits (yourself, link to source of installation disk ISO if apparent, any other credits)
 OPTIONAL/CASE-SPECIFIC: controllers setup, info about snapshots (if not given in the name), other considerations, CPU architecture, VM settings, modifications to the computer after installation.
-7. Submit a pull request.
+7. Submit a pull request. It may take a bit for me to check it, so be patient.
 
 Go to the discussion page to talk about the repository and make requests for OSes to be added by others, or the issues page to report any problems.
