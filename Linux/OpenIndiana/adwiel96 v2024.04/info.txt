@@ -1,6 +1,6 @@
 by adwiel96
 Disk Size: 34.45GB, dynamic
-Root pass: adwiel96
+Root pass: (unknown)
 User: adwiel
 Pass: (no password)
 AMD64 architecture
